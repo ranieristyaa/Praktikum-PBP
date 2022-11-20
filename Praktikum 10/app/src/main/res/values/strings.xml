@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">iPhone 13. Sistem kamera ganda paling canggih yang pernah ada di iPhone. Chip A15 Bionic yang secepat kilat. Lompatan besar dalam kekuatan baterai. Desain kokoh. Dan layar Super Retina XDR yang lebih cerah.</string>
+    <string name="content_specs_display"> Layar Super Retina XDR\n 5.4 inches\n Resolusi 2340 x 1080 piksel pada 476 ppi</string>
+    <string name="content_specs_size"> 131.5 x 64.2 x 7.65 mm</string>
+    <string name="content_specs_battery"> Chip A15 Bionic\n CPU 6-core: 2 core performa 4 core efisiensi\n GPU 4-core\n Neural Engine 16-core</string>
+    <string name="stock">Stock tersedia: 17</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="kapasitas">Kapasitas</string>
+    <string name="size">Ukuran</string>
+    <string name="battery">Chip</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Chaerani</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp. 13.999.000</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="content_kap">128 GB\n 256 GB\n 512 GB</string>
+    <string name="warna" >Warna</string>
+    <string name="content_warna" > Red\n Starlight\n Midnight\n Biru\n Pink\n Hijau</string>
+    <string name="call" >Hubungi Penjual</string>
+    <string name="berhasil" >Iphone 13 berhasil ditambahkan ke keranjang beli</string>
+</resources>
